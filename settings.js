@@ -34,21 +34,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['94757558130'],['94771825716'] //ur owner number
 global.ownername = "X $ M" //ur owner name
-global.ytname = "YT: Bisa YT" //ur yt chanel name
+global.ytname = "YT: BISA YT" //ur yt chanel name
 global.socialm = "GitHub: Darklyon" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Ganemulla" //ur location
 
 //bot bomdy 
 global.owner = ['94757558130'],['94771825716']
 global.ownertag = '94757558130','94771825716' //ur tag number
-global.botname = 'Dark Lyon MD V1' //ur bot name
+global.botname = '🦁Dark Lyon MD V1' //ur bot name
 global.linkz = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //ur website to be displayed
-global.botscript = 'botgerepo eka' //script link
+global.botscript = 'This is bot repo' //script link
 global.reactmoji = "👑" //ur menu react emoji
 global.themeemoji = "🖤" //ur theme emoji
-global.packname = "DARK LYON MD " //ur sticker watermark packname
-global.author = "Xofiy $ Maneth" //ur sticker watermark author
+global.packname = "🦁DARK LYON MD " //ur sticker watermark packname
+global.author = "Xofiy & maneth" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./LyonMedia/theme/lyonpic.jpg") //ur thumb pic
