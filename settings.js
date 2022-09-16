@@ -41,7 +41,7 @@ global.location = "Sri Lanka, Gampaha, Ganemulla" //ur location
 //bot bomdy 
 global.owner = ['94757558130'],['94771825716']
 global.ownertag = '94757558130','94771825716' //ur tag number
-global.botname = 'Dark Lyon🎭 MD V1' //ur bot name
+global.botname = 'Dark Lyon MD V1🎭' //ur bot name
 global.linkz = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //ur website to be displayed
 global.botscript = 'This is bot repo' //script link
