@@ -41,13 +41,13 @@ global.location = "Sri Lanka, Gampaha, Ganemulla" //ur location
 //bot bomdy 
 global.owner = ['94757558130'],['94771825716']
 global.ownertag = '94757558130','94771825716' //ur tag number
-global.botname = 'Dark Lyon MD V1🎭' //ur bot name
+global.botname = '𝗗𝗔𝗥𝗞 𝗟𝗬𝗢𝗡 𝗠𝗗 V1🎭' //ur bot name
 global.linkz = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //ur website to be displayed
 global.botscript = 'This is bot repo' //script link
 global.reactmoji = "👑" //ur menu react emoji
 global.themeemoji = "🖤" //ur theme emoji
-global.packname = "DARK LYON MD🎭 " //ur sticker watermark packname
+global.packname = "𝗗𝗔𝗥𝗞 𝗟𝗬𝗢𝗡 𝗠𝗗🎭 " //ur sticker watermark packname
 global.author = "Xofiy & maneth" //ur sticker watermark author
 
 //Bot theme media
