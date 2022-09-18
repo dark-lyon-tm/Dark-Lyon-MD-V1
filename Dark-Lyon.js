@@ -296,7 +296,7 @@ const textImg = (teks) => {
 Darklyon.sendMessage(m.chat, { text :teks, }, {quoted: m, thumbnail: fs.readFileSync('./LyonMedia/image/wpmobile.png')}) 
 }
 
-//FAKE CONTACT
+
 const fkontak = { key: {participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: `916909137213 -1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${pushname}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Click to chat\nEND:VCARD`, 'jpegThumbnail': thumb, thumbnail: thumb,sendEphemeral: true}}}
 //FAKEREPLY PRODUCT
 const ftoko = {
