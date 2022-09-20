@@ -44,7 +44,7 @@ global.ownertag = '94757558130','94771825716' //ur tag number
 global.botname = '𝗗𝗔𝗥𝗞 𝗟𝗬𝗢𝗡 𝗠𝗗 V1🎭' //ur bot name
 global.linkz = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/channel/UC9yYBHDtitW6XiDFi0AMi4g" //ur website to be displayed
-global.botscript = 'This is bot repo' //script link
+global.botscript = 'https://github.com/dark-lyon-tm/Dark-Lyon-MD-V1' //script link
 global.reactmoji = "👑" //ur menu react emoji
 global.themeemoji = "🖤" //ur theme emoji
 global.packname = "𝗗𝗔𝗥𝗞 𝗟𝗬𝗢𝗡 𝗠𝗗🎭 " //ur sticker watermark packname
@@ -80,7 +80,7 @@ global.ntilink = []
 //omther
 global.sessionName = 'session.lyon'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿','*','^','_','-']
+global.prefa = ['','!','.','*','^','_','-']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
