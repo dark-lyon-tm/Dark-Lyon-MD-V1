@@ -83,7 +83,7 @@ async function startDarklyon() {
         if (!Darklyon.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(Darklyon, mek, store)
-        require("./XeonCheems4")(Darklyon, m, chatUpdate, store)
+        require("./Dark-Lyon")(Darklyon, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
@@ -100,11 +100,11 @@ async function startDarklyon() {
        }
        let lolXeon = { url : ppgc }
        if (pea[0].announce == true) {
-        Darklyon.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe Group Has Been Closed By Admin, Now Only Admin Can Send Messages !`, `${botname}`, lolXeon, [])
+        Darklyon.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe Group Has Been Closed By Admin, Now Only Admin Can Send Messages ! You Cant Broo`, `${botname}`, lolXeon, [])
        } else if(pea[0].announce == false) {
         Darklyon.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nThe Group Has Been Opened By Admin, Now Participants Can Send Messages !`, `${botname}`, lolXeon, [])
        } else if (pea[0].restrict == true) {
-        Darklyon.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Info Has Been Restricted, Now Only Admin Can Edit Group Info !`, `${botname}`, lolXeon, [])
+        Darklyon.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Info Has Been Restricted, Now Only Admin Can Edit Group Info ! You Cant Broo`, `${botname}`, lolXeon, [])
        } else if (pea[0].restrict == false) {
         Darklyon.send5ButImg(pea[0].id, `「 Group Settings Changed 」\n\nGroup Info Has Been Opened, Now Participants Can Edit Group Info !`, `${botname}`, lolXeon, [])
        } else {
@@ -169,7 +169,7 @@ let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
 let buttonMessage = {
-document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+document: fs.readFileSync('./LyonMedia/theme/dark.xlsx'),
 mimetype: docs,
 jpegThumbnail:XeonWlcm,
 mentions: [num],
@@ -213,7 +213,7 @@ let buttons = [
 {buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
 ]
 let buttonMessage = {
-document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+document: fs.readFileSync('./LyonMediaa/theme/dark.xlsx'),
 mimetype: docs,
 jpegThumbnail:XeonLft,
 mentions: [num],
